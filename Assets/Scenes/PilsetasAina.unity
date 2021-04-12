@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 180009375}
   - component: {fileID: 180009377}
   - component: {fileID: 180009376}
+  - component: {fileID: 180009379}
   m_Layer: 5
   m_Name: AutobusaFons
   m_TagString: Untagged
@@ -195,6 +196,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 180009374}
   m_CullTransparentMesh: 0
+--- !u!114 &180009379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180009374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40789e5b9a183cc4aabe48fd1ae60a4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objektuSkripts: {fileID: 1871721602}
 --- !u!1 &205405839
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,6 +220,7 @@ GameObject:
   - component: {fileID: 205405840}
   - component: {fileID: 205405842}
   - component: {fileID: 205405841}
+  - component: {fileID: 205405843}
   m_Layer: 5
   m_Name: AkritumuMasinaFons
   m_TagString: Untagged
@@ -269,6 +284,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 205405839}
   m_CullTransparentMesh: 0
+--- !u!114 &205405843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 205405839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40789e5b9a183cc4aabe48fd1ae60a4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objektuSkripts: {fileID: 1871721602}
 --- !u!1 &604082722
 GameObject:
   m_ObjectHideFlags: 0
@@ -284,7 +312,7 @@ GameObject:
   - component: {fileID: 604082727}
   m_Layer: 5
   m_Name: Atrapalidziba
-  m_TagString: Untagged
+  m_TagString: Atrie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -385,7 +413,7 @@ GameObject:
   - component: {fileID: 804912678}
   m_Layer: 5
   m_Name: AtkritumuMasina
-  m_TagString: Untagged
+  m_TagString: Atkritumi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -486,7 +514,7 @@ GameObject:
   - component: {fileID: 840111859}
   m_Layer: 5
   m_Name: Autobuss
-  m_TagString: Untagged
+  m_TagString: Skola
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -898,6 +926,7 @@ GameObject:
   - component: {fileID: 1277615688}
   - component: {fileID: 1277615690}
   - component: {fileID: 1277615689}
+  - component: {fileID: 1277615691}
   m_Layer: 5
   m_Name: AtrapalidzibaFons
   m_TagString: Untagged
@@ -961,6 +990,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1277615687}
   m_CullTransparentMesh: 0
+--- !u!114 &1277615691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1277615687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40789e5b9a183cc4aabe48fd1ae60a4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objektuSkripts: {fileID: 1871721602}
 --- !u!1 &1371140281
 GameObject:
   m_ObjectHideFlags: 0
