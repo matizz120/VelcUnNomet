@@ -1,7 +1,7 @@
 # VelcUnNomet
 ## Veicamo darbu saraksts:
 - [x] Izveidot GitHub repo
-- [x] Sagatvot Unity projektu darba uzsÄkÅ¡anai (bildes, skaÅ†as, utt.)
-- [x] RealizÄ“t objektu vilkÅ¡anu un rotÄ“Å¡anu (uz kartes, nepareizi, pareizi)
-- [ ] RealizÄ“t objektu transformÄcijas (izmÄ“ra maiÅ†a, rotÄcija)
-- [ ] RealizÄ“t laika atskaiti un uzvaras logu (laiks, zvaigznÄ«tes)
+- [x] Sagatvot Unity projektu darba uzsâkğanai (bildes, skaòas, utt.)
+- [x] Realizçt objektu vilkğanu un rotçğanu (uz kartes, nepareizi, pareizi)
+- [x] Realizçt objektu transformâcijas (izmçra maiòa, rotâcija)
+- [ ] Realizçt laika atskaiti un uzvaras logu (laiks, zvaigznîtes)

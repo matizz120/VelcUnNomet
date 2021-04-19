@@ -25,6 +25,7 @@ public class Objekti : MonoBehaviour
     //Masīvs, kas uzglabās visas skaņas
     public AudioClip[] skanaKoAtskanot;
     //Uzglabās objektu, kurš ir pēdējais pārvietotais
+    [HideInInspector]
     public GameObject pedejaisVilktais = null;
     //Mainīgais atbild par to vai objekts ir nolikts pareizi vai nepareizi
     [HideInInspector]
